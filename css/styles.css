@@ -67,7 +67,8 @@ h4{
 }
 
  p{
- line-height: 36px;
+ 	padding:5px;
+ line-height: 30px;
   background: pink;
   border: black 4px solid;
 }
@@ -81,9 +82,11 @@ h2{
   right: 14px;
 }
 
-  nav {	text-align: right;
+  nav {	
+  		
+  		text-align: right;
 		padding-top: 50px 50px 50px 50px;
-text-decoration: none;
+		text-decoration: none;
 	}
 
 
